@@ -1,0 +1,41 @@
+.background-image {
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 4%;
+  }
+  /* About Us */
+  .about-text {
+    text-align: center;
+  }
+  .about-text h2 {
+    padding-top: 6%;
+  }
+  .about-text p {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  /* experience google */
+#google {
+    margin: 1%;
+    margin-left: 3%;
+    width: 45%;
+    border-radius: 15px;
+  }
+  /* experience alabian */
+  #alabian {
+    margin: 1%;
+    width: 46%;
+    margin-left: 2%;
+    border-radius: 15px;
+  }
+  
+  .lead-dev {
+    padding-left: 3%;
+  }
+  /* download text */
+  .download-text  {
+    margin-right: 20%;
+    margin-left: 20%;
+    text-align: center;
+  }
+  
